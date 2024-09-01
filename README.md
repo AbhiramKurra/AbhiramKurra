@@ -1,7 +1,19 @@
--<h1 align="center">Hi 👋, I'm NAVEEN ABHIRAM KURRA</h1>
+-<h1 align="center">Hi👋, I'm NAVEEN ABHIRAM KURRA</h1>
 <h3 align="center">A Cyber Security Enthusiast & CEH certified by EC-Council</h3>
 
+<h3 align="left">About Me:</h3>
+<p align="left">I am a Cyber Security Enthusiast and a Certified Ethical Hacker with a passion for cybersecurity and technology. Currently pursuing my BTech in Computer Science with a specialization in Cybersecurity at VIT. I enjoy working on projects that involve cybersecurity tools, ethical hacking, and software development.</p>
+
+<h3 align="left">Skills:</h3>
+<ul>
+  <li><strong>Programming Languages:</strong> Python, Java, SQL</li>
+  <li><strong>Tools & Technologies:</strong> Microsoft Suite, UNIX & Linux, Burp Suite, Wireshark, Nmap, Splunk, Azure Cloud Defense, Nessus Essentials, IBM QRadar, VMware</li>
+  <li><strong>Cybersecurity:</strong> OS Forensics, Vulnerability Assessment, SQL Injection, Network Security, Ethical Hacking</li>
+  <li><strong>Software Development:</strong> HTML, CSS3, JavaScript, UI/UX Design, Figma, Prototyping, Docker </li>
+</ul>
+
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/abhiramkurra/" target="_blank" rel="noreferrer">LinkedIn</a> | <a href="mailto:kurra.abhiram@gmail.com">Email</a>
 <p align="left">
 </p>
 
